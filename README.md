@@ -13,7 +13,6 @@ npm run dev
 - Front : [http://localhost:5173](http://localhost:5173)
 - API : [http://localhost:5000](http://localhost:5000)
 
-Compte démo : `demo@dealora.app` / `demo1234`
 
 Si MongoDB n’est pas installé, l’API bascule automatiquement sur un fichier local (`server/data/store.json`). Avec MongoDB, renseignez `MONGO_URI` dans `server/.env`.
 
